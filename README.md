@@ -1,8 +1,11 @@
 # Hi, I’m Tushar (2sharr) 👋  
 **Aspiring Software Engineer | Frontend/Backend · Full-stack · Android | Mumbai / Thane**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-blue)](https://2sharr.github.io/my-portfolio/) [![Email](https://img.shields.io/badge/email-tusharshinde186306@gmail.com-orange)](mailto:tusharshinde186306@gmail.com) [![GitHub](https://img.shields.io/badge/github-2sharr-black)](https://github.com/2sharr) [![Instagram](https://www.instagram.com/_tushharr__/)
-
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-blue)](https://2sharr.github.io/my-portfolio/) 
+[![Email](https://img.shields.io/badge/email-tusharshinde186306@gmail.com-orange)](mailto:tusharshinde186306@gmail.com) 
+[![GitHub](https://img.shields.io/badge/github-2sharr-black)](https://github.com/2sharr) 
+[![YouTube](https://img.shields.io/badge/youtube-2xshharp-red)](https://www.youtube.com/@2xshharp) 
+[![Instagram](https://img.shields.io/badge/instagram-@_tushharr__-magenta)](https://www.instagram.com/_tushharr__/)
 ---
 
 ## About me
