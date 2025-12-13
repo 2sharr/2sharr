@@ -1,4 +1,4 @@
-# Hi, I’m Tushar (2sharr) 👋  
+# Hi, I’m Tushar 👋  
 **Aspiring Software Engineer | Frontend/Backend · Full-stack · Android | Mumbai / Thane**
 
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-blue)](https://2sharr.github.io/my-portfolio/) 
