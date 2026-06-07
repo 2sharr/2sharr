@@ -1,7 +1,7 @@
 # Hi, I’m Tushar 👋  
 **Aspiring Software Engineer | Frontend/Backend · Full-stack · Android | Mumbai / Thane**
 
-[![Portfolio](https://img.shields.io/badge/portfolio-visit-blue)](https://2sharr.github.io/my-portfolio/) 
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-blue)](https://2sharr.github.io/My-Portfolio/) 
 [![Email](https://img.shields.io/badge/email-tusharshinde186306@gmail.com-orange)](mailto:tusharshinde186306@gmail.com) 
 [![GitHub](https://img.shields.io/badge/github-2sharr-black)](https://github.com/2sharr) 
 [![YouTube](https://img.shields.io/badge/youtube-2xshharp-red)](https://www.youtube.com/@2xshharp) 
@@ -27,4 +27,4 @@ I build practical, demo-ready applications that solve real problems — from a *
 - 🔹 **Android To-Do App** — Local persistence, input validation, modular code.
 
 **Open to:** Internship / Jr. SDE / Backend roles (Mumbai).  
-**Contact:** tasharshinde186306@gmail.com • Portfolio: https://2sharr.github.io/my-portfolio/ • GitHub: https://github.com/2sharr
+**Contact:** tasharshinde186306@gmail.com • Portfolio: https://2sharr.github.io/My-Portfolio/ • GitHub: https://github.com/2sharr
